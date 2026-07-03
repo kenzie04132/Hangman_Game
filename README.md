@@ -6,7 +6,7 @@ I made a Hangman app that manages data in real time from a built-in word list. T
 
 The primary purpose of writing this software was to get comfortable with references and borrowing, but also to learn about Rust, which is not a language I've ever worked with before.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/d8lEdso1IRU)
 
 # Development Environment
 
